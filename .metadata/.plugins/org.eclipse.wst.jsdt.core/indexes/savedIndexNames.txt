@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\OneDrive - Indium Software India Private Limited\Data\Official\AzurePackage\ExperiaPortal_Tasks\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1911597326.index
+3364325486.index
+3694657241.index
+1490743716.index
+1408001409.index
+50762891.index
